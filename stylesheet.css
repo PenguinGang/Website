@@ -1,0 +1,70 @@
+body {
+    background-color: skyblue;
+}
+
+img {
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+#header {
+    color: hotpink;
+    text-align: center;
+    
+}
+
+#navlinks {
+    position: fixed;
+}
+#reason1 {
+    color: black;
+    border-width: 5px;
+    background-color: forestgreen;
+    text-align: center;
+}
+#reason3 {
+    color: black;
+    border-width: 5px;
+    background-color: forestgreen;
+    text-align: center;
+}
+#reason2 {
+    color: black;
+    border-width: 5px;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+#list{
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#penguins {
+    border-radius: 75%;
+    width: 50%;
+    height: 25%;
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: beige;
+}
